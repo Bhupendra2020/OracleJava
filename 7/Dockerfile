@@ -1,5 +1,5 @@
 FROM ubuntu:trusty
-MAINTAINER Feng Honglin <hfeng@tutum.co>
+MAINTAINER Bhupendra Kumar <Bhupendra.kumar@softcrylic.com>
 
 # Install Oracle Java 7
 ENV JAVA_VER 7
